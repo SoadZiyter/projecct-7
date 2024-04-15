@@ -1,2 +1,2 @@
-# projecct-7
+# project-7
 TEST KNOWLEDGE
